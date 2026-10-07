@@ -29,9 +29,9 @@ offers:
     program_id: prg_01m4bjxdjt1rak2f1scwzmpezv
     offer_slug: startup-tier-free-year
     offer_slug_aliases: []
-    title: Startup Tier free for 12 months
-    summary: Eligible independent startups receive 12 months of Binadox Startup Tier free, covering up to three cloud providers and five SaaS applications. Activation requires a payment card; the plan then continues at $99/month unless cancelled.
-    description: The offer is limited to one per company and is non-transferable. There is no automatic extension. After the free year, the account continues on Binadox Starter at $99/month unless cancelled beforehand. Renewal reminders are sent 60, 30 and 7 days in advance.
+    title: Premium free for 12 months
+    summary: Eligible independent startups receive 12 months of Binadox Premium free, with unlimited cloud accounts, SaaS applications and seats. Activation requires a payment card; Premium then renews at $499/month unless cancelled.
+    description: The offer is limited to one per company and is non-transferable. There is no automatic extension. After the free year, the account continues on Binadox Premium at $499/month unless cancelled beforehand. Renewal reminders are sent 60, 30 and 7 days in advance.
     lifecycle:
       status: active
       effective_from: '2026-10-07T16:24:59.738Z'
@@ -40,9 +40,9 @@ offers:
         kind: none
       benefits:
         - benefit_id: ben_startup_tier
-          description: Startup Tier access at no charge for 12 months, with up to three cloud providers and five SaaS applications.
+          description: Premium access at no charge for 12 months, with unlimited cloud accounts, SaaS applications and team seats.
           kind: free-service
-          service: Binadox Startup Tier
+          service: Binadox Premium
           duration:
             kind: exact
             value: P12M
@@ -89,7 +89,7 @@ offers:
       availability: public
       method: form
       url: https://www.binadox.com/startup-program/
-      instructions: Apply through the vendor's Startup Program form. Binadox replies within one business day. After approval, add a valid payment card to activate. Cancel before the free year ends to avoid the subsequent Starter subscription charge.
+      instructions: Apply through the vendor's Startup Program form. Binadox replies within one business day. After approval, add a valid payment card to activate. Cancel before the free year ends to avoid the subsequent Premium subscription charge.
     terms_url: https://www.binadox.com/terms-of-service/
     source_ids:
       - src_a972e374545d121784866937a32676102f420277c7844f660e2776533896dab6
